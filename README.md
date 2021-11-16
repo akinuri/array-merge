@@ -10,7 +10,7 @@ I'm using associative arrays in various complex ways:
 * building an SQL query 
 * etc.
 
-The native PHP functions `array_merge()`, `array_replace()`, etc. falls short for the operations that I intent to perform.
+The native PHP functions `array_merge()`, `array_replace()`, etc. falls short for the operations that I intend to perform.
 
 I analyzed the various native merge functions and written a single function `merge()` that does all the work. (This went through several stages that started back in 2010.)
 
